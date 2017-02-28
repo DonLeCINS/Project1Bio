@@ -1,0 +1,28 @@
+body {
+background-color: powderblue;
+}
+#redtxt {
+  color: red;
+}
+h1:hover {
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+div.green{
+color: green;
+}
+}
+span:hover {
+color:white;
+}
+div li:hover{
+color:green;
+}
+.green{
+  color:green;
+}
+.white{
+  color:purple;
+}
